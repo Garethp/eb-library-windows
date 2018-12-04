@@ -1,0 +1,17 @@
+﻿  ebutils.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\ebutils.c': No such file or directory
+  getopt.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\getopt.c': No such file or directory
+  getumask.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\getumask.c': No such file or directory
+  makedir.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\makedir.c': No such file or directory
+  puts_eucjp.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\puts_eucjp.c': No such file or directory
+  samefile.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\samefile.c': No such file or directory
+  strcasecmp.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\strcasecmp.c': No such file or directory
+  yesno.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\libebutils\yesno.c': No such file or directory
+  Generating Code...

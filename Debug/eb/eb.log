@@ -1,0 +1,87 @@
+﻿  appendix.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\appendix.c': No such file or directory
+  appsub.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\appsub.c': No such file or directory
+  bcd.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\bcd.c': No such file or directory
+  binary.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\binary.c': No such file or directory
+  bitmap.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\bitmap.c': No such file or directory
+  book.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\book.c': No such file or directory
+  booklist.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\booklist.c': No such file or directory
+  copyright.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\copyright.c': No such file or directory
+  cross.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\cross.c': No such file or directory
+  dummyin6.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\dummyin6.c': No such file or directory
+  eb.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\eb.c': No such file or directory
+  ebnet.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\ebnet.c': No such file or directory
+  endword.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\endword.c': No such file or directory
+  error.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\error.c': No such file or directory
+  exactword.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\exactword.c': No such file or directory
+  filename.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\filename.c': No such file or directory
+  font.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\font.c': No such file or directory
+  hook.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\hook.c': No such file or directory
+  jacode.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\jacode.c': No such file or directory
+  keyword.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\keyword.c': No such file or directory
+  Generating Code...
+  Compiling...
+  linebuf.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\linebuf.c': No such file or directory
+  lock.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\lock.c': No such file or directory
+  log.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\log.c': No such file or directory
+  match.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\match.c': No such file or directory
+  menu.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\menu.c': No such file or directory
+  multi.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\multi.c': No such file or directory
+  multiplex.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\multiplex.c': No such file or directory
+  narwalt.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\narwalt.c': No such file or directory
+  narwfont.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\narwfont.c': No such file or directory
+  readtext.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\readtext.c': No such file or directory
+  search.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\search.c': No such file or directory
+  setword.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\setword.c': No such file or directory
+  stopcode.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\stopcode.c': No such file or directory
+  strcasecmp.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\strcasecmp.c': No such file or directory
+  subbook.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\subbook.c': No such file or directory
+  text.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\text.c': No such file or directory
+  urlparts.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\urlparts.c': No such file or directory
+  widealt.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\widealt.c': No such file or directory
+  widefont.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\widefont.c': No such file or directory
+  word.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\word.c': No such file or directory
+  Generating Code...
+  Compiling...
+  zio.c
+c1 : fatal error C1083: Cannot open source file: '..\eb\eb\zio.c': No such file or directory
+  Generating Code...
